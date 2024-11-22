@@ -1,7 +1,7 @@
 # Issues-Findings
 
 
-To select nvidia as the primary GPU : 
+# To select nvidia as the primary GPU : 
 
 1. sudo apt install nvidia-prime
 
