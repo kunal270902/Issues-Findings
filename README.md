@@ -5,7 +5,7 @@
 
 1. sudo apt install nvidia-prime
 
-2. sudo primee-select nvidia
+2. sudo prime-select nvidia
    
 
           
