@@ -8,4 +8,6 @@
 2. sudo prime-select nvidia
    
 
-          
+
+# TO fix git clone EOF error :
+git config --global http.postBuffer 524288000
