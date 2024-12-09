@@ -11,3 +11,7 @@
 
 # TO fix git clone EOF error :
 git config --global http.postBuffer 524288000
+
+
+# To directly enter BIOS menu from UBUNTU without using the biso key :
+sudo systemctl reboot --firmware-setup
