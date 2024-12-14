@@ -15,3 +15,7 @@ git config --global http.postBuffer 524288000
 
 # To directly enter BIOS menu from UBUNTU without using the BIOS key :
 sudo systemctl reboot --firmware-setup
+
+
+#Source Gazebo Server
+source /usr/share/gazebo/setup.sh
