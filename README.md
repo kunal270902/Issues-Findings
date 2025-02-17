@@ -19,3 +19,7 @@ sudo systemctl reboot --firmware-setup
 
 # Source Gazebo Server :
 source /usr/share/gazebo/setup.sh
+
+
+# Torch with cuda for nvidia jetson platforms (with jetpack os):
+https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
