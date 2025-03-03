@@ -32,4 +32,6 @@ and then adjust numpy accordingly
 
 # Gazebo server crashes randomly even for lightweight worlds.
 Error message: [ERROR] [gzclient-2]: process has died [pid 4301, exit code -6, cmd 'gzclient'].
+
+
 Solution: Add the following line to the .bashrc file : source /usr/share/gazebo/setup.sh
