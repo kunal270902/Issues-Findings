@@ -35,3 +35,11 @@ Error message: [ERROR] [gzclient-2]: process has died [pid 4301, exit code -6, c
 
 
 Solution: Add the following line to the .bashrc file : source /usr/share/gazebo/setup.sh
+
+# Load Modbus on Jetson.
+
+https://github.com/WCHSoftGroup/ch341ser_linux
+cd ch341ser_linux/driver
+make
+sudo make install
+to always load on boot: echo "ch341" | sudo tee -a /etc/modules
