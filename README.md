@@ -23,7 +23,7 @@ source /usr/share/gazebo/setup.sh
 
 # Torch with cuda for nvidia jetson platforms (with jetpack os):
 https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048
-
+https://pytorch.org/TensorRT/getting_started/jetpack.html
 
 # Ultralytics with torch and cuda compatiblity nvidia jetson series:
 https://docs.ultralytics.com/guides/nvidia-jetson/
