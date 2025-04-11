@@ -28,6 +28,8 @@ https://pytorch.org/TensorRT/getting_started/jetpack.html
 
 pip install 'numpy<2'
 
+https://pypi.jetson-ai-lab.dev/jp6/cu126      //for jetpack 6.2
+
 
 # Ultralytics with torch and cuda compatiblity nvidia jetson series:
 https://docs.ultralytics.com/guides/nvidia-jetson/
