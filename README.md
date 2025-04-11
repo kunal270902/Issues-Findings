@@ -51,3 +51,8 @@ make
 sudo make install
 
 to always load on boot: echo "ch341" | sudo tee -a /etc/modules
+
+# SSH error (something Nasty).
+
+ssh-keygen -f "/home/{user_name}/.ssh/known_hosts" -R "{IP}"
+
